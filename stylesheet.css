@@ -1,29 +1,23 @@
-/* styles.css */
 
-/* Applying style to all <p> tags */
 p {
     font-size: 18px;
     color: #555;
 }
 
-/* Creating a class 'highlight' and applying it to two elements */
 .highlight {
     background-color: yellow;
     padding: 10px;
 }
 
-/* Creating an ID 'special' and applying it to an element */
 #bunderline {
     font-weight: bold;
     text-decoration: underline;
 }
 
-/* Changing the color of <a> on hover */
 a:hover {
     color: red !important;
 }
 
-/* Changing box model properties of a class */
 .box-style1 {
     border: 5px solid #FFD700;
     margin: 5px;
